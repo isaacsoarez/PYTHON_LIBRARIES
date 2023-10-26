@@ -29,7 +29,7 @@ def botao_clique():
 botao = tk.Button(window, text="Fechar Janela", command=botao_clique)
 botao.pack()
 
-
+#maximizar window
 window.state("zoomed")
 
 window.mainloop()
