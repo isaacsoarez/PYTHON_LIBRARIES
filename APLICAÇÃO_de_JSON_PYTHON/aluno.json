@@ -1,0 +1,18 @@
+[
+    {
+      "Nome_Aluno1": "Nome_Aluno1",
+      "disciplinas": {
+        "Disciplina1": [],
+        "Disciplina2": [],
+        "Disciplina3": []
+      }
+    },
+    {
+      "Nome_Aluno2": "Nome_Aluno2",
+      "disciplinas": {
+        "Disciplina1": [],
+        "Disciplina2": []
+      }
+    }
+  ]
+  

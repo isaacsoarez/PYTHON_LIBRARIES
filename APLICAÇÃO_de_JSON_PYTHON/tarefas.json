@@ -1,0 +1,16 @@
+{
+    "tarefas": [
+        {
+            "descricao": "fazer compras de supermercado",
+            "concluida": true
+        },
+        {
+            "descricao": "Estudar para prova de geografia",
+            "concluida": false
+        },
+        {
+            "descricao": "Arrumar a casa",
+            "concluida": true
+        }
+    ]
+}
